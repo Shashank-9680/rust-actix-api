@@ -11,20 +11,17 @@ In this comprehensive guide, you'll build a simple CRUD API in Rust using the Ac
 - Setup the Database Model
 - Create the API Response Structs
 - Add the CRUD Functionalities
-    - Health Checker Route
-    - Fetch All Records
-    - Add a New Record
-    - Retrieve a Single Record
-    - Edit a Record
-    - Delete a Record
-    - Merge the Routes
+  - Health Checker Route
+  - Fetch All Records
+  - Add a New Record
+  - Retrieve a Single Record
+  - Edit a Record
+  - Delete a Record
+  - Merge the Routes
 - Add CORS to the Actix Web Server
 - Test the Actix Web CRUD API
-    - Add a New Todo Item
-    - Edit a Todo Item
-    - Retrieve a Todo Item
-    - Retrieve All Todo Items
-    - Delete a Todo Item
-
-Read the entire article here: [https://codevoweb.com/build-a-simple-api-with-rust-and-actix-web/](https://codevoweb.com/build-a-simple-api-with-rust-and-actix-web/)
-
+  - Add a New Todo Item
+  - Edit a Todo Item
+  - Retrieve a Todo Item
+  - Retrieve All Todo Items
+  - Delete a Todo Item
